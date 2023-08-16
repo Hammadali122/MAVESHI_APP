@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846580655109",
+    "project_id": "maveshi-app-209d7",
+    "storage_bucket": "maveshi-app-209d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846580655109:android:16c14088d391412330e86c",
+        "android_client_info": {
+          "package_name": "com.example.maveshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846580655109-aifesvmstk6sudp0i0b59rh977hs28s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV801eH3pM2mnH8vw8BdyqetarIHK1-DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846580655109-aifesvmstk6sudp0i0b59rh977hs28s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
